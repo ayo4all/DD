@@ -242,7 +242,7 @@ padding-bottom: 10%;
 /* Make reservation */
 
 .tm-res{
-    background: #cc4151;
+    background: #ffffff;
     padding: 2%;
 }
 
@@ -253,9 +253,9 @@ padding-bottom: 10%;
     margin: 0 auto;
     font-size: 2.5vw;
      padding: 2%;
-    color: #fff;
+    color: #aa00d9;
     font-weight: 700;
-    border: 1px solid #fff;
+    border: 1px solid #aa00d9;
    
 }
 .tm-resbutton a{
@@ -272,7 +272,7 @@ padding-bottom: 10%;
 /* footer */
 
 .tm-footer{
-     background: #211f17;
+     background: #aa00d9;
     display: block;
     padding: 20px;
     position: relative;
@@ -294,7 +294,7 @@ padding-bottom: 10%;
 }
 
 .tm-us .bold, .tm-address .bold{
-    color: #ec3c6a;
+    color: #ffffff;
     font-size: 1.5vw;
     font-weight: 700;
     padding-bottom: 4%;
